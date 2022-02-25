@@ -1,0 +1,145 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A relation of several signal victories and other considerable enterprizes, lately obtain'd by Their Majesties forces, over the rebels in Ireland Particularly, I. The siege and taking the famous fort of Scronalard, by B. General Churchil. II. The taking the fort at Ross, by Captain Carrol. III. The defeating 21 troops of Irish horse, and 7 of dragoons, near Tralee. IIII. The actions of Collonel Fitz-Gerald, and Captain Edgworth, in gaining a considerable pass, and routing a party of Irish, commanded by Gibny. Being the substance of the last intilligence, printed at Dublin, the 13th. instant, with allowance.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58428</idno>
+            <idno type="STC">Wing R808A</idno>
+            <idno type="STC">ESTC R222526</idno>
+            <idno type="EEBO-CITATION">99833689</idno>
+            <idno type="PROQUEST">99833689</idno>
+            <idno type="VID">38167</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58428)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38167)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2176:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A relation of several signal victories and other considerable enterprizes, lately obtain'd by Their Majesties forces, over the rebels in Ireland Particularly, I. The siege and taking the famous fort of Scronalard, by B. General Churchil. II. The taking the fort at Ross, by Captain Carrol. III. The defeating 21 troops of Irish horse, and 7 of dragoons, near Tralee. IIII. The actions of Collonel Fitz-Gerald, and Captain Edgworth, in gaining a considerable pass, and routing a party of Irish, commanded by Gibny. Being the substance of the last intilligence, printed at Dublin, the 13th. instant, with allowance.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>printed for W. Bonney,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Some print faded.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  War of 1689-1691 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:38167:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 13 -->
+            <head>A Relation of Several Signal VICTORIES And other Conſiderable Enterprizes, Lately Obtain'd by Their Majeſties Forces, over the REBELS in <hi>IRELAND.</hi>
+            </head>
+            <head type="sub">PARTICULARLY,
+<list>
+                  <item>I. The Siege and Taking the Famous Fort of <hi>Scronalard,</hi> by B. General <hi>Churchil.</hi>
+                  </item>
+                  <item>II. The Taking the Fort at <hi>Roſs,</hi> by Captain <hi>Carrol.</hi>
+                  </item>
+                  <item>III. The Defeating 21 Troops of <hi>Iriſh</hi> Horſe, and 7 or Draggons, near <hi>Tralee.</hi>
+                  </item>
+                  <item>III. The Actions of Collonel <hi>Fitz Gerald,</hi> and Captain <hi>Edgworth,</hi> in gaining a conſiderable Paſs, and Routing a Party of <hi>Iriſh,</hi> Commanded by <hi>Gibny.</hi>
+                  </item>
+               </list>
+               <date>
+                  <add>21. Jan. 1691/0</add>
+               </date>
+            </head>
+            <head type="sub">Being the ſubſtance of the laſt Intilligence, Printed at <hi>Dublin,</hi> the <hi>13th. Inſtant,</hi> 
+            </head>
+            <argument>
+               <p>With Allowance.</p>
+            </argument>
+            <p>WE have Advice from <hi>Cork,</hi> That the Forces under the Command of Major General <hi>Tettan,</hi> that lately made a Deſcent into <hi>Kerry,</hi> are moſt of them come back into their Winter Quarters. They Marcht from <hi>Cork</hi> on the 28th. of the laſt, and on the 29th. at <hi>Macromoo</hi> were joyn'd by Brigadier <hi>Churchil,</hi> Sir <hi>David Collier,</hi> Collonel <hi>Coy,</hi> and Coll. <hi>Matthows,</hi> and the next day marcht forwards through the Countrey, which they found all burnt. On <hi>New-Years-Day</hi> they attackt a Forti<g ref="char:EOLhyphen"/>fication of the Enemies, at a place called <hi>Scronolard,</hi> which was intended to hinder their paſſage that way; they took it with great eaſe in two hours, though the Enemy were two months in raiſing it, with the labour of five hundred Men conſtantly employ'd: Marching thence towards <hi>Brewſterfield,</hi> they diſcover<g ref="char:EOLhyphen"/>ed ſome of the Enemies Scouts, whereupon ſeventy of Collonel <hi>Eppinger</hi>'s Dragoons, and Coll. <hi>Coy</hi>'s Horſe, having the Advance-Guard, came near a party of the Enemy of a 160 Horſe, who (notwithſtanding they were twice the number) would not endure a Charge, but run away with all in imaginable ſpeed, upon ſmall light Horſes, moſt of them without Shoes. Amongſt theſe that made this haſte, we hear was the Lord <hi>Courſey</hi> and <hi>Slane,</hi> and Collonel <hi>Nicholas Brown,</hi> whom they call Lord <hi>Kinmare:</hi> By this time all the Countrey round was in flame, and being at ſome diſtance from <hi>Killarny,</hi> our Forces made all the haſte thither they could, to ſave it, but yet there were a<g ref="char:EOLhyphen"/>bout twenty Cabbins before we could get thither burnt by two Troopers that ſtay'd behind the reſt, which we kill'd, and ſo ſav'd the reſt of the Town, and <hi>Brewſter</hi>'s Forge alſo. Our Forces then moved towards <hi>Roſs,</hi> the scituation whereof we found very ſtrong, and tolerably well fortify'd, having a Gar<g ref="char:EOLhyphen"/>riſon of about ſix hundred men in it, Commanded by Collonel <hi>Mac. Carty</hi> that wants a Thumb; in it were the Lords <hi>Courſey,</hi> and <hi>Slane,</hi> and Collonel <hi>Brown,</hi> who not willing to venture themſelves there, got freſh Horſes, and ſcowr'd towards <hi>Lymerick</hi> as faſt as they could. This place not being to be fore't at pre<g ref="char:EOLhyphen"/>ſent, we attackt a Rock near it, which the Enemy had fortify'd, with fiſty <hi>Danes,</hi> Commanded by Cap. <hi>Buenbury,</hi> and fiſty <hi>Kinſailers,</hi> Commanded by Cap.<hi>Corroll.</hi> The Service was very ſmart, both our Lead<g ref="char:EOLhyphen"/>ing Officers being hurt, Captain <hi>Buenburg</hi> with a Granade, and Captain <hi>Carroll</hi> ſhot through the Legg: We loſt 6 private Men, and had fifteen wounded. There were in this fortification of the Enemy ſeven<g ref="char:EOLhyphen"/>ty ſeven, of which fourteen ſwimm'd to another Rock, five were taken Priſoners, and the reſt kill'd; of thoſe fourteen that ſwimm'd, moſt of them dy'd before Morning, and the reſt were kill'd by our Muſqueteers. From thence our Horſe Marched towards <hi>Tralee,</hi> which the Enemy (being twenty one Troops of Dragoons, and ſeven Troops of Horſe, Commanded by Collonel <hi>Sheldon</hi>) deſerted, not hav<g ref="char:EOLhyphen"/>ing time to Burn it, and made all the haſte they could to get to <hi>Limerick,</hi> if poſſible, with deſign, as we are informed, if they could not force their way through. Lieutenant-General <hi>Ginkell</hi>'s Troops, to kill-all their Horſes, and Tranſport themſelves by Boats over the <hi>Shannon.</hi> Some Deſerters from <hi>Tyconnel</hi>'s Regiment inform us of the General Conſternation the Enemy were in on this occaſion.</p>
+            <p>Of late, we were very much Allarm'd by a num<g ref="char:EOLhyphen"/>ber of the Rapparees, and ſome of the Enemies Forces gathered together in the Iſland of <hi>Allen</hi> in the Coun-of <hi>Kildere;</hi> But Collonel <hi>Foulks,</hi> and Collonel <hi>Piper,</hi> who were commanded thither with a Party of the Army, joyned ſome of the Militia of the City of <hi>Dublin,</hi> and the Militia of the County of <hi>Kildare,</hi> whereof Contain <hi>Fitz-Gerald</hi> is Governour, and was in the Action ſoon diſperſed them, having hunted them from Boggs to Woods, like Wolves &amp; Foxes, but could ſeldom overtake any of them; thoſe they met with, <hi>viz.</hi> One Captain <hi>Gibny,</hi> a Captain amongſt the Rap<g ref="char:EOLhyphen"/>parees, and ſome others, the Killed, and fore't the reſt out of thoſe Faſtneſſes: The long and dark Nights at this time, gave them an opportunity of running away; but ſuch effectual care is taken, by Deſtroying the ſeattering Cabbins were they were Sheltred, and Garriſoning other places in the Boggs, that it will now be poſſeſſed by a better ſort of Inhabitants: Both the Soldiers of the Army, and the Militia that we Detacht for this Service, behaved themſelves with great Zeal and forwardneſs, to the general ſatisfaction of the Officers. Beſides thoſe killed, there were about Fiſteen taken Priſoners; ſome were uſed in this Service for Guides, and the reſt will ſoon be diſpoſed of.</p>
+            <p>Our Forces being Poſted at <hi>Lanesborough</hi> (as you had an Accôunt in the laft Intelligence) continued at the Foot of the Bridge without any Action, within half Piſtol Shot of the Enemy. But on <hi>Monday</hi> the Fifth Inſtant, Early in the Morning they were Al<g ref="char:EOLhyphen"/>larum'd on this Occaſion. Captain <hi>Edgworth,</hi> being Poſted with one Hundred Men at the Entrance of the Paſs, was Attaqu't by a Party of the Enemy, to the Number of near a Thouſand. The Lord Viſcount <hi>Lis<g ref="char:EOLhyphen"/>burn,</hi> who Commanded in Chief at <hi>Lisborough,</hi> being ſent to in Order to a Reinforcement, drew out a ſmall party of this Garriſon, and Marcht them about two Miles towards the Captains Relief, where they met an Expreſs which gave an Account, that the Ene<g ref="char:EOLhyphen"/>my were beaten back, the Officer that led them with ſeveral of the Souldiers being Killed, without the loſs of one Man of ours, and three only wounded.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON, Printed for <hi>W. Bonney.</hi> 1691.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
